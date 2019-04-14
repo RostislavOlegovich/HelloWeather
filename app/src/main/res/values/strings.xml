@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hello Weather</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_summary">Your location is\u0020</string>
+    <string name="pref_summary_choise">Chose your location</string>
+    <string name="no_location">No location</string>
+
+    <string name="clear_sky">clear\u0020sky</string>
+    <string name="few_clouds">few\u0020clouds</string>
+    <string name="scattered_clouds">scattered\u0020clouds</string>
+    <string name="broken_clouds">broken\u0020clouds</string>
+    <string name="shower_rain">shower\u0020rain</string>
+    <string name="rain">rain</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="snow">snow</string>
+    <string name="mist">mist</string>
+    <string name="night_iocn">01n</string>
+    <string name="settings">Settings</string>
+    <string name="error_responce_txt">Error responce, please input correct location\nexample: London, UK\n\n
+    OR\n\nAllow location permision</string>
+    <string name="max_txt">max:</string>
+    <string name="min_txt">min:</string>
+    <string name="degrees_o">o</string>
+
+    <string name="icon_weather_today">icon weather today</string>
+
+
+</resources>
